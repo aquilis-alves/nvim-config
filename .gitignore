@@ -1,0 +1,6 @@
+# Cache e dados gerados automaticamente
+/plugin/
+/.repro/
+/lazy-lock.json   # opcional, alguns preferem versionar esse
+/cache/
+*.log
