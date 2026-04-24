@@ -4,3 +4,11 @@
 /lazy-lock.json   # opcional, alguns preferem versionar esse
 /cache/
 *.log
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
